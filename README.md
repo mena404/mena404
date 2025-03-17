@@ -16,27 +16,6 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
 <img align="right" height="150" src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFja2VyfGVufDB8fDB8fHww"  />
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
