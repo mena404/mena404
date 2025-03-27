@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mena404/mena404/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="right" height="150" src="https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFja2VyfGVufDB8fDB8fHww"  />
 
 ###
